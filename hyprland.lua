@@ -17,6 +17,8 @@
 -- require("myColors")
 
 
+
+require("bindings")
 ------------------
 ---- MONITORS ----
 ------------------
